@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=viraj-008&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🔥 **Self-Taught Developer | Started in 2022**  
 - 🌱 **Currently Learning:** React Native & Machine Learning  
