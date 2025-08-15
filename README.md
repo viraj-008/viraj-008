@@ -7,10 +7,10 @@
 
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🔥 **Self-Taught Developer | Started in 2022**  
-- 🌱 **Currently Learning:** React Native & Machine Learning  
+- 🔥 **Self-Taught Developer**  
+-  
 - 👨‍💻 **Check Out My Projects:** [Portfolio](https://my-portfolio-1pk8ieyiu-viraj-008s-projects.vercel.app/)  
-- 📫 **Reach Me At:** [virajshekhar008@gmail.com](mailto:virajshekhar008@gmail.com)  
+- 📫 **Reach Me At:** [vivek132121@gmail.com](mailto:virajshekhar008@gmail.com)  
 
 ---
 
