@@ -9,7 +9,7 @@
 
 - 🔥 **Self-Taught Developer**  
 -  
-- 👨‍💻 **Check Out My Projects:** [Portfolio](https://my-portfolio-1pk8ieyiu-viraj-008s-projects.vercel.app/)  
+- 👨‍💻 **Check Out My Projects:** 
 - 📫 **Reach Me At:** [vivek132121@gmail.com](mailto:virajshekhar008@gmail.com)  
 
 ---
